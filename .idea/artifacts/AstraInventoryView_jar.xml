@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AstraInventoryView:jar">
+    <output-path>$USER_HOME$/Documents/Development/server1.15.2/plugins</output-path>
+    <root id="archive" name="AstraInventoryView.jar">
+      <element id="module-output" name="AstraInventoryView" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

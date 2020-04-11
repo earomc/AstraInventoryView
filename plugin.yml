@@ -1,0 +1,3 @@
+name: "AstraInventoryView"
+version: "1.0"
+main: net.earomc.astrainventoryview.AstraInventoryView

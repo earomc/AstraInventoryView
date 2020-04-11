@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AstraInventoryView:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e414f9c-b3cd-47a3-98ac-f29b643eaf76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AstraInventoryView_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/minecraft_server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AstraInventoryView.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AstraInventoryView/net/earomc/astrainventoryview/AstraInventoryView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AstraInventoryView/net/earomc/astrainventoryview/InventoryManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AstraInventoryView/net/earomc/astrainventoryview/PlayerDeathListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/earomc/astrainventoryview/AstraInventoryView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/earomc/astrainventoryview/InventoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/earomc/astrainventoryview/PlayerDeathListener.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aM806N38HMepBlb9BAkxxRw4Ty" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="astrainventoryview" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e414f9c-b3cd-47a3-98ac-f29b643eaf76" name="Default Changelist" comment="" />
+      <created>1586533875566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586533875566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="363" key="#Project_Structure" timestamp="1586540739609">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="880" y="363" key="#Project_Structure/0.23.2560.1349@0.23.2560.1349" timestamp="1586540739609" />
+    <state x="1093" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1586539608386">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="1093" y="420" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1349@0.23.2560.1349" timestamp="1586539608386" />
+    <state x="851" y="454" key="SettingsEditor" timestamp="1586540721416">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="851" y="454" key="SettingsEditor/0.23.2560.1349@0.23.2560.1349" timestamp="1586540721416" />
+    <state x="694" y="753" key="com.intellij.ide.util.TipDialog" timestamp="1586643428259">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="694" y="753" key="com.intellij.ide.util.TipDialog/0.23.2560.1349@0.23.2560.1349" timestamp="1586643428259" />
+    <state x="992" y="598" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586548770370">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="992" y="598" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1349@0.23.2560.1349" timestamp="1586548770370" />
+  </component>
+</project>
